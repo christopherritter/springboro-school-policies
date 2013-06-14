@@ -1,5 +1,10 @@
-Table of Contents
-=================
+---
+layout: default
+title: Table of Contents
+---
+
+{{ page.title }}
+================
 
 -   **[0000 - Bylaws](po0000.md)**
 -   **[1000 - Administration](po1000.md)**
@@ -11,4 +16,3 @@ Table of Contents
 -   **[7000 - Property](po7000.md)**
 -   **[8000 - Operations](po8000.md)**
 -   **[9000 - Relations](po9000.md)**
-
